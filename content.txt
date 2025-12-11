@@ -1,3 +1,7 @@
 Line 1
+<<<<<<< HEAD
 Main changed Line 2
+=======
+Feature changed Line 2
+>>>>>>> 9f6f9db (Change line 2 in feature)
 Line 3
